@@ -9,4 +9,6 @@ Because I Want To.
 
 # Resources
 Vortex Engine - https://github.com/TheDevAtlas/Vortex-Engine
-Majin Kneppers - https://marijnkneppers.dev/
+Marijn Kneppers - https://marijnkneppers.dev/
+Fishnet Networking - https://github.com/FirstGearGames/FishNet
+Fishnet and Steam - https://github.com/FirstGearGames/FishySteamworks
